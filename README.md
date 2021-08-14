@@ -1,25 +1,10 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Abhishek Jalindar Khetre ⚡️ 
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+- 👋 Hi, I’m @abhishekkhetre
+- 👀 I’m interested in Development and Cyber Security domain.
+- 🌱 I’m skilled in web development(MERN).
+- 📫 khetreabhishek24@gmail.com
 
-## Sections 📚
-✔️ About me\
-✔️ Education\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Contact Info\
-✔️ Resume
 
-To view a live example, **[click here]()**
-
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
-
+## Portfolio- https://abhishekkhetre.github.io/abhishekkhetre/
+## LinkedIn- https://www.linkedin.com/in/abhishekkhetre/
