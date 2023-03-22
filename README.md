@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @abhishekkhetre
 - 👀 I’m interested in Development and Cyber Security domain.
-- 🌱 I’m skilled in web development(MERN).
+- 🌱 I’m skilled in web development.
 - 📫 khetreabhishek24@gmail.com
 
 
