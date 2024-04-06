@@ -1,7 +1,7 @@
 # Abhishek Jalindar Khetre ⚡️ 
 
 - 👋 Hi, I’m @abhishekkhetre
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Development and Cyber Security domain.
 - 🌱 I’m skilled in web development.
 - 📫 khetreabhishek24@gmail.com
 
